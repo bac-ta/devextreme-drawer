@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@devextreme/runtime": "3.0.11",
+    "devexpress-diagram": "2.1.65",
+    "devexpress-gantt": "4.1.37",
+    "devextreme": "22.2.3",
+    "devextreme-quill": "1.5.18",
+    "devextreme-react": "22.2.3",
+    "es6-object-assign": "1.1.0",
+    "html-react-parser": "1.4.14",
+    "inferno": "7.4.11",
+    "inferno-clone-vnode": "7.4.11",
+    "inferno-compat": "7.4.11",
+    "inferno-create-class": "7.4.11",
+    "inferno-create-element": "7.4.11",
+    "inferno-dom": "latest",
+    "inferno-extras": "7.4.11",
+    "inferno-hydrate": "7.4.11",
+    "jszip": "3.7.1",
+    "luxon": "1.28.0",
+    "prettier": "2.7.1",
+    "prop-types": "15.8.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "2.6.4"
+  },
+  "description": "Drawer is a dismissible or permanently visible panel that usually contains navigation elements.\nTo open or close the Drawer component in this demo, click the 'Hamburger' button. Each Drawer visibility change can adjust the layout in the following ways (see openedStateMode):\n\n\n\"push\"\nThe Drawer partially displaces the view.\n\n\n\"shrink\"\nThe view shrinks to accommodate the Drawer.\n\n\n\"overlap\"\nThe Drawer overlaps the view.\n\n\nUse the radio buttons at the bottom of this demo module to try different layout modes. You can also change the Drawer's position and revealMode properties.\nNote this demo's markup. The Drawer definition encloses the view content (the formatted text). The Drawer's own content (navigation links) is set by the template property. Finally, the toolbar markup is separate from other elements.\nTo get started with the DevExtreme Drawer component, refer to the following step-by-step tutorial: Getting Started with Navigation Drawer.\n",
+  "name": "Left or Right Position - DevExtreme Drawer"
+}
